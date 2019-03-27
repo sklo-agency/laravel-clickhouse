@@ -1,6 +1,6 @@
 <?php
 
-namespace Esazykin\LaravelClickHouse\Database\Eloquent;
+namespace Sklo\LaravelClickHouse\Database\Eloquent;
 
 use Closure;
 use BadMethodCallException;

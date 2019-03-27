@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Esazykin\LaravelClickHouse;
+namespace Sklo\LaravelClickHouse;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\DatabaseManager;

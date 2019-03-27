@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Esazykin\LaravelClickHouse\Database\Query;
+namespace Sklo\LaravelClickHouse\Database\Query;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

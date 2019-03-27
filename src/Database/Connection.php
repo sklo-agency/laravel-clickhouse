@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Esazykin\LaravelClickHouse\Database;
+namespace Sklo\LaravelClickHouse\Database;
 
 use Tinderbox\ClickhouseBuilder\Query\Grammar;
 use Esazykin\LaravelClickHouse\Database\Query\Builder;
