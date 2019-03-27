@@ -12,7 +12,7 @@ use Illuminate\Database\Concerns\BuildsQueries;
 use Illuminate\Database\Eloquent\Relations\Relation;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Database\Eloquent\RelationNotFoundException;
-use Esazykin\LaravelClickHouse\Database\Query\Builder as QueryBuilder;
+use Sklo\LaravelClickHouse\Database\Query\Builder as QueryBuilder;
 
 /**
  * @mixin QueryBuilder

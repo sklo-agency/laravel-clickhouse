@@ -6,8 +6,8 @@ namespace Sklo\LaravelClickHouse;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\DatabaseManager;
-use Esazykin\LaravelClickHouse\Database\Connection;
-use Esazykin\LaravelClickHouse\Database\Eloquent\Model;
+use Sklo\LaravelClickHouse\Database\Connection;
+use Sklo\LaravelClickHouse\Database\Eloquent\Model;
 
 class ClickHouseServiceProvider extends ServiceProvider
 {
