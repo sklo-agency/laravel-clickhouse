@@ -10,7 +10,7 @@
   "require": {
     "php": ">=7.1",
     "laravel/framework": "5.8.*",
-    "sklo-agency/clickhouse-builder": "dev-laravel_5.8_v4"
+    "sklo-agency/clickhouse-builder": "^2.2.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^6.5",
